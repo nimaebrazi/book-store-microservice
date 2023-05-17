@@ -32,8 +32,9 @@
 	</properties>
 
 	<modules>
-		<module>book-service</module>
 		<module>author-service</module>
+		<module>book-service</module>
+		<module>eureka-server</module>
 	</modules>
 
 	<build>
